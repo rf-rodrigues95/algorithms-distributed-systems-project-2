@@ -11,7 +11,7 @@
 
 ## Final report
 
-[See the PDF](./latex/ASD_Project_2.pdf)
+[See the PDF](./report/ASD_Project_2.pdf)
 
 ## Commands
 
