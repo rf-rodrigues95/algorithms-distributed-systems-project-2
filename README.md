@@ -5,6 +5,8 @@
   - Ricardo Rodrigues (rf-rodrigues95)
   - Gonçalo Virgínia (goncalovirginia)
 
+This project implements a decentralized peer-to-peer point-to-point communication system using a DHT for routing messages between uniquely identified peers. It ensures message delivery even when peers are offline by leveraging helper nodes, with mechanisms to handle redundancy and failure.
+
 ## Project description
 
 [See the PDF](./docs/Project-Phase2.pdf)
