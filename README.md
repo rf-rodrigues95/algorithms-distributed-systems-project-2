@@ -1,15 +1,9 @@
 # Project Phase 2: Algorithms and Distributed Systems
 -**NOVA School of Science and Technology (NOVA FCT)** – 2024–2025    
--**Final Grade:** 17.00
+-**Final Grade:** 17.00 
 -**Group:** 
   - Ricardo Rodrigues (rf-rodrigues95)
   - Gonçalo Virgínia (Nsivaa)
-
-## Organisational details
-
-- **Same groups** as defined in phase 1 of the project.
-- **Deadline: 23:59:59 2024-11-29 (Sexta-feira)**
-- Cluster access is provided for trialling your system.
 
 ## Project description
 
