@@ -3,7 +3,7 @@
 **Final Grade:** 17.00  
 **Group:** 
   - Ricardo Rodrigues (rf-rodrigues95)
-  - Gonçalo Virgínia (Nsivaa)
+  - Gonçalo Virgínia (goncalovirginia)
 
 ## Project description
 
