@@ -9,6 +9,10 @@
 
 [See the PDF](./docs/Project-Phase2.pdf)
 
+## Final report
+
+[See the PDF](./latex/ASD_Project_2.pdf)
+
 ## Commands
 
 ### Compile
